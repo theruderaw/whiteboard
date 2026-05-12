@@ -1,0 +1,17 @@
+# Node/Project
+node_modules/
+dist/
+.env
+
+# Explicit User Instruction
+/planner
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
